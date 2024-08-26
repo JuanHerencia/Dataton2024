@@ -8,11 +8,11 @@ https://facilita.gob.pe/t/10366
 https://forms.office.com/r/SmyE67wQte
 
 ### Use los datos publicados
-Alumnos del Centro Pre universitario de la Universidad Nacional de Ingeniería - [UNI]	
+Alumnos del Centro Pre universitario de la Universidad Nacional de Ingeniería - [UNI]\
 https://www.datosabiertos.gob.pe/dataset/alumnos-del-centro-pre-universitario-de-la-universidad-nacional-de-ingenier%C3%ADa-uni
 
-Postulantes al Concurso de Admisión de la Universidad Nacional de Ingeniería - [UNI]	
+Postulantes al Concurso de Admisión de la Universidad Nacional de Ingeniería - [UNI]\
 https://www.datosabiertos.gob.pe/dataset/postulantes-al-concurso-de-admisi%C3%B3n-de-la-universidad-nacional-de-ingenier%C3%ADa-uni
 
-Alumnos matriculados en la Universidad Nacional de Ingeniería - [UNI]	
+Alumnos matriculados en la Universidad Nacional de Ingeniería - [UNI]\
 https://www.datosabiertos.gob.pe/dataset/alumnos-matriculados-en-la-universidad-nacional-de-ingenier%C3%ADa-uni
